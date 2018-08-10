@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './About.css';
+// import myImage from '../images/man.jpg';
 
 class About extends Component {
     render() {
@@ -12,10 +13,10 @@ class About extends Component {
                         <br/>
                         <hr/>
                     </div>
-                    <div>
-                        <div>
+                    <div className="container">
+                        <div className="">
                             Фото
-                            {/* <img src=""/> */}
+                            {/* <img src={myImage}/> */}
                         </div>
                         <div>
                             <h3>Кратко о себе</h3>
