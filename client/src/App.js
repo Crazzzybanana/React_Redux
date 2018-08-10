@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import {BrowserRouter as Router, /*Route*/} from 'react-router-dom';
 import Slider from './components/Slider';
+import About from './components/About';
 import './App.css';
 
 class App extends Component {
@@ -9,7 +10,7 @@ class App extends Component {
       <Router>
         <div>
           <Slider/>
-          <p>Check</p>
+          <About/>
         </div>
       </Router>
     );
