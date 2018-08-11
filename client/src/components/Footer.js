@@ -10,7 +10,7 @@ class Footer extends Component {
                         <div className="row">
                             <div className="col-md-12">
                                 © 2018 Пономарчук Дмитрий.
-                                <div>
+                                <div className="contactTable">
                                     <ul>
                                         <li>
                                             <a href="http://t.me/Crazzybanan" target="_blank" rel="noopener noreferrer">

@@ -4,6 +4,8 @@ import Slider from './components/Slider';
 import About from './components/About';
 import Summary from './components/Summary';
 import Footer from './components/Footer';
+import Contact from './components/Contact';
+import Portfolio from './components/Portfolio';
 import './App.css';
 
 class App extends Component {
@@ -14,6 +16,8 @@ class App extends Component {
           <Slider/>
           <About/>
           <Summary/>
+          <Portfolio/>
+          <Contact/>
           <Footer/>
         </div>
       </Router>
