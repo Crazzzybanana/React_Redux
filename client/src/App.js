@@ -3,6 +3,7 @@ import {BrowserRouter as Router, /*Route*/} from 'react-router-dom';
 import Slider from './components/Slider';
 import About from './components/About';
 import Summary from './components/Summary';
+import Footer from './components/Footer';
 import './App.css';
 
 class App extends Component {
@@ -13,6 +14,7 @@ class App extends Component {
           <Slider/>
           <About/>
           <Summary/>
+          <Footer/>
         </div>
       </Router>
     );

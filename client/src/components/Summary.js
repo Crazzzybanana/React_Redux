@@ -12,6 +12,9 @@ class Summary extends Component {
                         <br/>
                         <hr/>
                     </div>
+                    <div className="container summaryContainer">
+                        <hr/>
+                    </div>
                 </section>
             </div>
         );
