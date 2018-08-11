@@ -10,7 +10,7 @@ class Slider extends Component {
                 imageSrc={require("../images/mac.jpg")} 
                 isCentered={true} 
                 minHeight="100vh"
-                opacity={0.2}
+                opacity={0.1}
                 parallaxOffset={100}
                 transitionDuration={600}
                 transitionTimingFunction="ease-in-out"

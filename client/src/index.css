@@ -3,3 +3,31 @@ body {
   padding: 0;
   font-family: 'Raleway', sans-serif;
 }
+
+section{
+  padding: 65px;
+}
+
+.header{
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.header h2{
+  margin-top: 0;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.header p{
+  font-size: 12px;
+  letter-spacing: 4px;
+}
+
+.header hr{
+  height: 0.3px;
+  color: black;
+  background-color: black;
+  width: 180px;
+}
