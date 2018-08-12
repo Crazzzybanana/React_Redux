@@ -11,7 +11,7 @@ class About extends Component {
                         <h2>Обо мне</h2>
                         <p>Немного информации</p>
                         <br/>
-                        <hr/>
+                        <hr className="headerHr"/>
                     </div>
                     <div className="container aboutContainer">
                         <div className="row">
@@ -36,7 +36,7 @@ class About extends Component {
                                     программирование на node.js, JavaScript.
                                     </p>
                                     <p>День рождения: 13 ноября 1998</p>
-                                    <p>E-mail: sgrdimka11@rambler.ru</p>
+                                    <p>E-mail: <a href="mailto:sgrdimka11@rambler.ru">sgrdimka11@rambler.ru</a></p>
                                     <p>Веб-сайт: (soon)</p>
                                 </div>
                             </div>

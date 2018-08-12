@@ -10,10 +10,22 @@ class Summary extends Component {
                         <h2>Резюме</h2>
                         <p>Мои знания и образование</p>
                         <br/>
-                        <hr/>
+                        <hr className="headerHr"/>
                     </div>
                     <div className="container summaryContainer">
-                        <hr/>
+                        <div className="row">
+                            <div className="col rightColum columH">
+                                <p>
+                                    Образование
+                                </p>
+                            </div>
+                            <hr/>
+                            <div className="col columH">
+                                <p>
+                                    Знания и навыки
+                                </p>
+                            </div>
+                        </div>
                     </div>
                 </section>
             </div>

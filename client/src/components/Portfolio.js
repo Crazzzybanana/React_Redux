@@ -10,7 +10,7 @@ class Portfolio extends Component {
                         <h2>Портфолио</h2>
                         <p>Мои работы за последнее время</p>
                         <br/>
-                        <hr/>
+                        <hr className="headerHr whiteHr"/>
                     </div>
                     <div className="container containerContainer">
                     </div>

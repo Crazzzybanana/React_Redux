@@ -1,5 +1,25 @@
-.header hr{
-    height: 0.1px;
-    color: black;
-    background-color: black;
+.containerContainer{
+    margin-top: 70px;
+}
+
+.contaxtBox{
+    font-weight: 100;
+}
+
+.contaxtBox div{
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: #2C7DF6;
+}
+
+.contaxtBox p{
+    margin-bottom: 30px;
+}
+
+.contaxtBox h3{
+    font-size: 20px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-weight: 100;
+    margin-bottom: 10px;
 }

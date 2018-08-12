@@ -40,10 +40,8 @@
 
 .circle-img {
     margin-top: 7%;
-    margin-left: 5px;
-    margin-right: 5px;
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200px;
     overflow: hidden;
     border-radius: 50%;
 }

@@ -25,8 +25,7 @@ section{
   letter-spacing: 4px;
 }
 
-.header hr{
-  height: 0.3px;
+.headerHr{
   color: black;
   background-color: black;
   width: 180px;
