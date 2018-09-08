@@ -8,11 +8,17 @@ class Portfolio extends Component {
                 <section className="portfolio">
                     <div className="header">
                         <h2>Портфолио</h2>
-                        <p>Мои работы за последнее время</p>
+                        <p>Моя работа за последнее время</p>
                         <br/>
                         <hr className="headerHr whiteHr"/>
                     </div>
                     <div className="container containerContainer">
+                        <div className="row">
+                            <div className="col portfolioCol">
+                                <h3>Свежие работы</h3>
+                                <h3>Опыт работы</h3>
+                            </div>
+                        </div>
                     </div>
                 </section>
             </div>

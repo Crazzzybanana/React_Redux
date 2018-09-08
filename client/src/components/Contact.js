@@ -35,9 +35,11 @@ class Contact extends Component {
                             </div>
                             <div className="col">
                                 <div className="contaxtBox">
-                                    <div className="fab fa-internet-explorer"></div>
-                                    <h3>Сайт</h3>
-                                    <p>soon</p>
+                                    <div className="fab fa-github"></div>
+                                    <h3>GitHub</h3>
+                                    <p>
+                                        <a href="https://github.com/Crazzzybanana" target="_blank" rel="noopener noreferrer">github.com</a>
+                                    </p>
                                 </div>
                                 <div className="contaxtBox">
                                     <div className="fas fa-at"></div>
