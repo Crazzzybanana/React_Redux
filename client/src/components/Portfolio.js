@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import StuffSale from '../images/StuffSale.png'
-// import myImage from '../images/man.jpg';
+import Port from '../images/Portfolio.png';
 import './Portfolio.css';
 
 class Portfolio extends Component {
@@ -19,7 +19,8 @@ class Portfolio extends Component {
                             <div className="col portfolioCol">
                                 <h3>Последние работы</h3>
                                 <div className="lastWorks row">
-                                    <img src={StuffSale} alt="siteImage" className="porfolioSiteImage"></img>
+                                    <img src={StuffSale} alt="siteImage" className="porfolioSiteImage col-md-6"></img>
+                                    <img src={Port} alt="siteImage" className="porfolioSiteImage col-md-6"></img>
                                 </div>
                                 <h3>Опыт работы</h3>
                                 <div className="experience">
