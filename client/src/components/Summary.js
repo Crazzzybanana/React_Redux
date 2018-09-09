@@ -41,7 +41,7 @@ class Summary extends Component {
                                 <br/>
                                 <p className="summaryAboutHeader">Знания в области Web</p>
                                 <p className="summaryText">
-                                    Языки программирования: C, C++, C#, Java, Javascript, node.js, Python. 
+                                    Языки программирования: C#, Java, Javascript, node.js, Python. 
                                     Язык разметки HTML(5), таблицы стилей CSS(3),
                                     адаптивная верстка под мобильные устройства, фреймворк Bootstrap.
                                     СУБД MongoDB, библиотеки React+Redux, jQuery.
